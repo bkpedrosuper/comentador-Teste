@@ -89,6 +89,8 @@
 </template>
 
 <script>
+import '@fortawesome/fontawesome-free/css/all.css'
+
 export default {
   data () {
     return {
@@ -107,7 +109,7 @@ export default {
           to: '/inspire'
         },
         {
-          icon: 'mdi-repeat',
+          icon: 'fas fa-times',
           title: 'Só vai',
           to: '/things'
         }
