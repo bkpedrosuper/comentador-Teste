@@ -1,0 +1,21 @@
+{
+  "name": "morning",
+  "version": "1.0.0",
+  "description": "My grand Nuxt.js project",
+  "author": "rotaexatinha",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
